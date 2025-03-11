@@ -50,4 +50,4 @@ Follow their Facebook for project highlights and design inspiration 25.
 Link to Surfside’s platforms and legal info.
 -->
 
-Learn more: Surfside Staging Portfolio 
+Learn more: [Surfside Staging Portfolio](https://surfsidestaging.com)
